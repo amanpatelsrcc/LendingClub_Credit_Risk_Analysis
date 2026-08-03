@@ -1,4 +1,4 @@
-# LendingClub_Credit_Risk_Analysis
+# LendingClub Credit Risk Analysis
 
 ## Problem Statement
 
