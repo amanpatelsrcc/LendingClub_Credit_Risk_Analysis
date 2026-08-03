@@ -23,26 +23,26 @@ Default rate is calculated only on closed loans (Fully Paid or Charged Off), exc
 
 ### Overview
 
-Total loans issued: 2,255.83K, totaling $33,948M
-Overall default rate: 19.98%
-Loan volume stayed flat until around 2012, then grew sharply through 2018, going from a few thousand loans a year to nearly 500K
-About 47.7% of loans are in good standing, 40.4% are still unresolved, and 11.9% are bad
+- Total loans issued: 2,255.83K, totaling $33,948M
+- Overall default rate: 19.98%
+- Loan volume stayed flat until around 2012, then grew sharply through 2018, going from a few thousand loans a year to nearly 500K
+- About 47.7% of loans are in good standing, 40.4% are still unresolved, and 11.9% are bad
 
 ### Risk Analysis
 
-Default rate climbs steadily from Grade A (6.04%) to Grade G (49.72%), confirming LendingClub's own grading system lines up with real default outcomes
-FICO score and DTI both move in the expected direction too. Below 650 FICO defaults at 27.5% versus 8.88% for 750+, and DTI over 30% defaults at 29.17% versus 14.91% for under 10%
-Education and wedding loans default less than other purposes even at lower grades, suggesting loan purpose carries some risk signal on its own, separate from grade
+- Default rate climbs steadily from Grade A (6.04%) to Grade G (49.72%), confirming LendingClub's own grading system lines up with real default outcomes
+- FICO score and DTI both move in the expected direction too. Below 650 FICO defaults at 27.5% versus 8.88% for 750+, and DTI over 30% defaults at 29.17% versus 14.91% for under 10%
+- Education and wedding loans default less than other purposes even at lower grades, suggesting loan purpose carries some risk signal on its own, separate from grade
 
 ### Customer Segmentation
 
-Borrowers earning 40K to 70K account for the highest loan volume, both in count and total amount, making them the core borrower base
-Higher income borrowers take fewer loans but larger ones, a smaller but higher value segment
-Default rate drops steadily as mortgage account count goes up, from 23.6% for borrowers with none down to 12.5% for those with 10 or more, likely tied to greater financial stability
-Rented homes have the highest default rate at 23.23%, mortgaged homes the lowest at 17.22%
+- Borrowers earning 40K to 70K account for the highest loan volume, both in count and total amount, making them the core borrower base
+- Higher income borrowers take fewer loans but larger ones, a smaller but higher value segment
+- Default rate drops steadily as mortgage account count goes up, from 23.6% for borrowers with none down to 12.5% for those with 10 or more, likely tied to greater financial stability
+- Rented homes have the highest default rate at 23.23%, mortgaged homes the lowest at 17.22%
 
 ## Files
 
-LendingClub_DataCleaning.ipynb – data cleaning notebook
-LendingClub_Dashboard.pdf – exported dashboard pages
-LendingClub_Dashboard.pbit – full interactive dashboard
+- LendingClub_DataCleaning.ipynb – data cleaning notebook
+- LendingClub_Dashboard.pdf – exported dashboard pages
+- LendingClub_Dashboard.pbit – full interactive dashboard
