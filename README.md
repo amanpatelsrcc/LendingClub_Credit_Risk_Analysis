@@ -46,3 +46,18 @@ Power BI for the dashboard, DAX measures, and visualizations
 - LendingClub_DataCleaning.ipynb – data cleaning notebook
 - LendingClub_Dashboard.pdf – exported dashboard pages
 - LendingClub_Dashboard.pbit – full interactive dashboard
+
+## Dashboard Images
+### Overview
+<img width="1361" height="771" alt="image" src="https://github.com/user-attachments/assets/897be17c-2dbb-4a44-a999-981e6639a928" />
+
+### Risk Analysis
+<img width="1356" height="762" alt="image" src="https://github.com/user-attachments/assets/18e299ff-1b3e-4ddf-adde-3ccc75b5e072" />
+
+### Customers Segmentation
+<img width="1221" height="679" alt="image" src="https://github.com/user-attachments/assets/5b6312cb-db1d-44ea-a899-b92de6c1e76c" />
+
+
+
+
+
