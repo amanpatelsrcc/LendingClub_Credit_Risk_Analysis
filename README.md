@@ -15,9 +15,9 @@ Python (Pandas) for cleaning, handling nulls, and mapping categorical fields to 
 Power BI for the dashboard, DAX measures, and visualizations
 
 ## Methodology
-Cleaned the raw dataset, dropped rows with minimal missing values, imputed employment length and mortgage account count with median values
-Built a 3 page Power BI dashboard: Overview, Risk Analysis, and Segmentation
-Default rate is calculated only on closed loans (Fully Paid or Charged Off), excluding loans still in progress like Current or Late, so the rate reflects actual resolved outcomes rather than being skewed by recent, unmatured loans
+- Cleaned the raw dataset, dropped rows with minimal missing values, imputed employment length and mortgage account count with median values
+- Built a 3 page Power BI dashboard: Overview, Risk Analysis, and Segmentation
+- Default rate is calculated only on closed loans (Fully Paid or Charged Off), excluding loans still in progress like Current or Late, so the rate reflects actual resolved outcomes rather than being skewed by recent, unmatured loans
 
 ## Key Outcomes
 
